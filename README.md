@@ -12,7 +12,7 @@ English: https://openbible.com/textfiles/akjv.txt
 
 ## ToDo:
 
-- [*] Choose biblical text/s
+- [x] Choose biblical text/s
 - [ ] Choose a topic modeling algorithm/s
 - [ ] English text preproceessing
 - [ ] English text topic modeling
