@@ -1,0 +1,4 @@
+hebrew-tokenizer
+gensim
+nltk
+requests
