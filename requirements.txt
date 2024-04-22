@@ -1,4 +1,6 @@
 hebrew-tokenizer
 gensim
 nltk
-requests
+deep-translator
+scikit-learn
+numpy
