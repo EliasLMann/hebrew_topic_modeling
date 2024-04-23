@@ -4,17 +4,12 @@ Performing topic modeling on Hebrew biblical texts and comparing with topic mode
 
 All current analysis is done on the book of Genesis.
 
+Inlcudes implementation of Latent Dirichlet Allocation (LDA), Hierarchical Dirichlet Process (HDP), and Latent Semantic Analysis (LSA) algorithms. UCI and UMass Coherency metrics are used to evaluate the models.
+
+To run code use python 3.10 and install the required packages with `pip install -r requirements.txt`.
+
 ## Data
 
 Hebrew: https://works.bepress.com/klyoder/49/
 
 English: https://openbible.com/textfiles/akjv.txt
-
-## ToDo:
-
-- [x] Choose biblical text/s
-- [ ] Choose a topic modeling algorithm/s
-- [ ] English text preproceessing
-- [ ] English text topic modeling
-- [ ] Find way to translate Hebrew text to English
-- [ ] Hebrew text preprocessing
